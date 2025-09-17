@@ -10,7 +10,7 @@
 
 ---
 
-## 🇮🇳 About Me
+## About Me
 
 👋 **Hey there!** I'm **Naman Mittal**, an AI/ML engineer passionate about building intelligent systems and working on cutting-edge AI technologies.
 
